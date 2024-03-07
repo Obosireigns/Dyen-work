@@ -1,0 +1,32 @@
+h1{
+    color: coral;
+}
+#container{
+    border: 1px solid black;
+    height: auto;
+    width: 700px;
+    position: relative;
+    margin: 0px auto;
+}
+#first{
+    border: 1px solid black;
+    color: blue;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    left: 10px;
+}
+#second{
+    border: 1px solid black;
+    color: blue;
+    width: 100%;
+    height: auto;
+    background-color: yellow;
+}
+#third{
+    border: 1px solid black;
+    color: blue;
+    width: 100%;
+    height: auto;
+    background-color: pink;
+}
